@@ -1,2 +1,2 @@
-# Pytho
+# Pyton
 Diwali sales analysis
